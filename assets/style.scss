@@ -1,0 +1,13 @@
+----
+----
+
+@import "{{ site.theme }}";
+
+.about-page .about-header .about-avatar {
+    padding: 1px;
+    border: 1px solid #e8e8e8;
+    width: 10rem;
+    height: 10rem;
+    margin: 0 2rem 0 0;
+    border-radius: 10rem;
+}

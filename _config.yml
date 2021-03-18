@@ -1,0 +1,23 @@
+title: Blog of @notnnor
+tagline: Just another security blog
+author: notnnor 
+email: notnnor@gmail.com
+url: https://notnnor.github.io
+description: Just another security blog
+
+favicon: "./assets/favicon.ico"
+
+remote_theme: huangyz0918/moving
+
+moving:
+  avatar_url: "./images/profile.png"
+  about_you: Just another security blog
+  date_format: "%b %d"
+  back_to: "Home"
+
+  social_links:
+    twitter: notnnor
+    github:  notnnor
+    rss: RSS
+
+highlighter: none
