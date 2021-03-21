@@ -12,7 +12,7 @@ InvoicePlane is one of the popular open-source CRM. During the search for a PHP 
 
 The latest version of InvoicePlane (v1.5.11) has several vulnerabilities. Without further wasting your time let’s dive into the details.
 
-### CWE-552: Files or Directories Accessible to External Parties
+- CWE-552: Files or Directories Accessible to External Parties
 
 As mentioned above, if the webserver is not configured properly, this allows unauthenticated directory listing and file download. Allowing an attacker to directory traversal and download files suppose to be private without authentication.
 
